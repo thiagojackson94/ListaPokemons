@@ -1,0 +1,96 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway|Roboto+Slab|Roboto|Montserrat|Lato';
+
+.navbar-title {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+  color: #0A0A0A;
+  text-transform : uppercase;
+}
+
+.navbar-brand{
+  text-align: center;
+}
+
+#thead-dark{
+  border-radius: 8px
+}
+
+.pokemon-image {
+    width: 1000px;
+    margin-top: -162px;
+    margin-left: -353px;
+    margin-bottom: -99px;
+}
+
+.pokemon-container {
+  padding-top: 50px;
+  width: 300px;
+}
+
+.input-container {
+  padding-top: 50px;
+  width: 300px;
+}
+
+.form-control{
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+
+html, body, div, span {
+	margin: 0;
+	padding: 0;
+	border: 0;
+  font-family: 'Roboto';
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.tit_dife {
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+	line-height: 1;
+  background-color: #009bc2;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.row {
+    margin-left: -50px;
+    margin-right: -15px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    border-radius: 8px;
+}
+
+.hidden{
+	display:none;
+	
+}
+
+.table{
+  background-color: white;
+}
+
+#tr {
+    border-radius: 8px;
+}
+
+th{
+    text-transform: capitalize;
+    text-align: center;
+}
